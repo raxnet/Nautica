@@ -2,7 +2,7 @@ import { connect } from "cloudflare:sockets";
 
 // Variables
 const rootDomain = "raxnet.my.id"; // Ganti dengan domain utama kalian
-const serviceName = "nautica"; // Ganti dengan nama workers kalian
+const serviceName = "proxy"; // Ganti dengan nama workers kalian
 const apiKey = "89cb061b88e864036731d866236e9468acd94"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "andraxvpn@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "eb100c5517f3800d59470a6678e74e29"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
